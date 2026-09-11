@@ -1,0 +1,37 @@
+name: Update Jet Heatmap
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate heatmap
+        run: node generate.mjs
+        env:
+          GH_USERNAME: bikash23m
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_PATH: github-jet.svg
+
+      - name: Commit updated heatmap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-jet.svg
+          git diff --cached --quiet || git commit -m "Update GitHub jet heatmap"
+          git push
