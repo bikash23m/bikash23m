@@ -2295,6 +2295,22 @@
     repeatCount="indefinite"
   />
 </rect>
+
+<rect
+  x="482"
+  y="99"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#216e39"
+>
+  <animate
+    attributeName="fill"
+    values="#216e39;#39d353;#216e39"
+    dur="20s"
+    repeatCount="indefinite"
+  />
+</rect>
   </g>
 
   <g id="jet-bullets">
@@ -2322,14 +2338,14 @@
 </circle>
 
 <circle
-  cx="277.5"
+  cx="487.5"
   cy="140"
   r="2.5"
   fill="#7ee787"
 >
   <animate
     attributeName="cy"
-    values="140;76.5;140"
+    values="140;104.5;140"
     dur="20s"
     begin="1.50s"
     repeatCount="indefinite"
@@ -2339,6 +2355,28 @@
     values="0;1;0"
     dur="20s"
     begin="1.50s"
+    repeatCount="indefinite"
+  />
+</circle>
+
+<circle
+  cx="277.5"
+  cy="140"
+  r="2.5"
+  fill="#7ee787"
+>
+  <animate
+    attributeName="cy"
+    values="140;76.5;140"
+    dur="20s"
+    begin="3.00s"
+    repeatCount="indefinite"
+  />
+  <animate
+    attributeName="opacity"
+    values="0;1;0"
+    dur="20s"
+    begin="3.00s"
     repeatCount="indefinite"
   />
 </circle>
@@ -2353,14 +2391,14 @@
     attributeName="cy"
     values="140;62.5;140"
     dur="20s"
-    begin="3.00s"
+    begin="4.50s"
     repeatCount="indefinite"
   />
   <animate
     attributeName="opacity"
     values="0;1;0"
     dur="20s"
-    begin="3.00s"
+    begin="4.50s"
     repeatCount="indefinite"
   />
 </circle>
@@ -2375,14 +2413,14 @@
     attributeName="cy"
     values="140;104.5;140"
     dur="20s"
-    begin="4.50s"
+    begin="6.00s"
     repeatCount="indefinite"
   />
   <animate
     attributeName="opacity"
     values="0;1;0"
     dur="20s"
-    begin="4.50s"
+    begin="6.00s"
     repeatCount="indefinite"
   />
 </circle>
@@ -2397,14 +2435,14 @@
     attributeName="cy"
     values="140;90.5;140"
     dur="20s"
-    begin="6.00s"
+    begin="7.50s"
     repeatCount="indefinite"
   />
   <animate
     attributeName="opacity"
     values="0;1;0"
     dur="20s"
-    begin="6.00s"
+    begin="7.50s"
     repeatCount="indefinite"
   />
 </circle>
