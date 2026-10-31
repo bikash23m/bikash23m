@@ -863,11 +863,11 @@
   width="11"
   height="11"
   rx="2"
-  fill="#30a14e"
+  fill="#fe9600"
 >
   <animate
     attributeName="fill"
-    values="#30a14e;#39d353;#30a14e"
+    values="#fe9600;#39d353;#fe9600"
     dur="20s"
     repeatCount="indefinite"
   />
@@ -879,11 +879,11 @@
   width="11"
   height="11"
   rx="2"
-  fill="#216e39"
+  fill="#03001c"
 >
   <animate
     attributeName="fill"
-    values="#216e39;#39d353;#216e39"
+    values="#03001c;#39d353;#03001c"
     dur="20s"
     repeatCount="indefinite"
   />
@@ -1525,11 +1525,11 @@
   width="11"
   height="11"
   rx="2"
-  fill="#9be9a8"
+  fill="#ffee4a"
 >
   <animate
     attributeName="fill"
-    values="#9be9a8;#39d353;#9be9a8"
+    values="#ffee4a;#39d353;#ffee4a"
     dur="20s"
     repeatCount="indefinite"
   />
@@ -1820,11 +1820,11 @@
   width="11"
   height="11"
   rx="2"
-  fill="#9be9a8"
+  fill="#ffee4a"
 >
   <animate
     attributeName="fill"
-    values="#9be9a8;#39d353;#9be9a8"
+    values="#ffee4a;#39d353;#ffee4a"
     dur="20s"
     repeatCount="indefinite"
   />
@@ -1845,11 +1845,11 @@
   width="11"
   height="11"
   rx="2"
-  fill="#9be9a8"
+  fill="#ffee4a"
 >
   <animate
     attributeName="fill"
-    values="#9be9a8;#39d353;#9be9a8"
+    values="#ffee4a;#39d353;#ffee4a"
     dur="20s"
     repeatCount="indefinite"
   />
@@ -1861,11 +1861,11 @@
   width="11"
   height="11"
   rx="2"
-  fill="#216e39"
+  fill="#03001c"
 >
   <animate
     attributeName="fill"
-    values="#216e39;#39d353;#216e39"
+    values="#03001c;#39d353;#03001c"
     dur="20s"
     repeatCount="indefinite"
   />
@@ -2297,6 +2297,15 @@
 <rect
   x="482"
   y="85"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="482"
+  y="99"
   width="11"
   height="11"
   rx="2"
