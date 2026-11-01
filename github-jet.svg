@@ -800,8 +800,15 @@
   width="11"
   height="11"
   rx="2"
-  fill="#ebedf0"
-/>
+  fill="#30a14e"
+>
+  <animate
+    attributeName="fill"
+    values="#30a14e;#39d353;#30a14e"
+    dur="20s"
+    repeatCount="indefinite"
+  />
+</rect>
 
 <rect
   x="160"
@@ -809,8 +816,15 @@
   width="11"
   height="11"
   rx="2"
-  fill="#ebedf0"
-/>
+  fill="#216e39"
+>
+  <animate
+    attributeName="fill"
+    values="#216e39;#39d353;#216e39"
+    dur="20s"
+    repeatCount="indefinite"
+  />
+</rect>
 
 <rect
   x="160"
@@ -863,15 +877,8 @@
   width="11"
   height="11"
   rx="2"
-  fill="#fe9600"
->
-  <animate
-    attributeName="fill"
-    values="#fe9600;#39d353;#fe9600"
-    dur="20s"
-    repeatCount="indefinite"
-  />
-</rect>
+  fill="#ebedf0"
+/>
 
 <rect
   x="174"
@@ -879,15 +886,8 @@
   width="11"
   height="11"
   rx="2"
-  fill="#03001c"
->
-  <animate
-    attributeName="fill"
-    values="#03001c;#39d353;#03001c"
-    dur="20s"
-    repeatCount="indefinite"
-  />
-</rect>
+  fill="#ebedf0"
+/>
 
 <rect
   x="174"
@@ -1462,80 +1462,80 @@
   width="11"
   height="11"
   rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="314"
-  y="15"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="314"
-  y="29"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="314"
-  y="43"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="314"
-  y="57"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="314"
-  y="71"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="314"
-  y="85"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="314"
-  y="99"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ffee4a"
+  fill="#9be9a8"
 >
   <animate
     attributeName="fill"
-    values="#ffee4a;#39d353;#ffee4a"
+    values="#9be9a8;#39d353;#9be9a8"
     dur="20s"
     repeatCount="indefinite"
   />
 </rect>
 
 <rect
+  x="314"
+  y="15"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="314"
+  y="29"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="314"
+  y="43"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="314"
+  y="57"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="314"
+  y="71"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="314"
+  y="85"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="314"
+  y="99"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
   x="328"
   y="15"
   width="11"
@@ -1757,74 +1757,52 @@
   width="11"
   height="11"
   rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="370"
-  y="71"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="370"
-  y="85"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="370"
-  y="99"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="384"
-  y="15"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="384"
-  y="29"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="384"
-  y="43"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="384"
-  y="57"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ffee4a"
+  fill="#9be9a8"
 >
   <animate
     attributeName="fill"
-    values="#ffee4a;#39d353;#ffee4a"
+    values="#9be9a8;#39d353;#9be9a8"
+    dur="20s"
+    repeatCount="indefinite"
+  />
+</rect>
+
+<rect
+  x="370"
+  y="71"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="370"
+  y="85"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#9be9a8"
+>
+  <animate
+    attributeName="fill"
+    values="#9be9a8;#39d353;#9be9a8"
+    dur="20s"
+    repeatCount="indefinite"
+  />
+</rect>
+
+<rect
+  x="370"
+  y="99"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#216e39"
+>
+  <animate
+    attributeName="fill"
+    values="#216e39;#39d353;#216e39"
     dur="20s"
     repeatCount="indefinite"
   />
@@ -1832,6 +1810,42 @@
 
 <rect
   x="384"
+  y="15"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="384"
+  y="29"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="384"
+  y="43"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="384"
+  y="57"
+  width="11"
+  height="11"
+  rx="2"
+  fill="#ebedf0"
+/>
+
+<rect
+  x="384"
   y="71"
   width="11"
   height="11"
@@ -1845,15 +1859,8 @@
   width="11"
   height="11"
   rx="2"
-  fill="#ffee4a"
->
-  <animate
-    attributeName="fill"
-    values="#ffee4a;#39d353;#ffee4a"
-    dur="20s"
-    repeatCount="indefinite"
-  />
-</rect>
+  fill="#ebedf0"
+/>
 
 <rect
   x="384"
@@ -1861,15 +1868,8 @@
   width="11"
   height="11"
   rx="2"
-  fill="#03001c"
->
-  <animate
-    attributeName="fill"
-    values="#03001c;#39d353;#03001c"
-    dur="20s"
-    repeatCount="indefinite"
-  />
-</rect>
+  fill="#ebedf0"
+/>
 
 <rect
   x="398"
@@ -2252,60 +2252,6 @@
 <rect
   x="482"
   y="15"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="482"
-  y="29"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="482"
-  y="43"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="482"
-  y="57"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="482"
-  y="71"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="482"
-  y="85"
-  width="11"
-  height="11"
-  rx="2"
-  fill="#ebedf0"
-/>
-
-<rect
-  x="482"
-  y="99"
   width="11"
   height="11"
   rx="2"
@@ -2316,7 +2262,7 @@
   <g id="jet-bullets">
     
 <circle
-  cx="179.5"
+  cx="165.5"
   cy="140"
   r="2.5"
   fill="#7ee787"
@@ -2338,7 +2284,7 @@
 </circle>
 
 <circle
-  cx="389.5"
+  cx="375.5"
   cy="140"
   r="2.5"
   fill="#7ee787"
@@ -2360,7 +2306,7 @@
 </circle>
 
 <circle
-  cx="179.5"
+  cx="165.5"
   cy="140"
   r="2.5"
   fill="#7ee787"
@@ -2382,7 +2328,7 @@
 </circle>
 
 <circle
-  cx="389.5"
+  cx="375.5"
   cy="140"
   r="2.5"
   fill="#7ee787"
@@ -2404,7 +2350,7 @@
 </circle>
 
 <circle
-  cx="319.5"
+  cx="305.5"
   cy="140"
   r="2.5"
   fill="#7ee787"
@@ -2426,7 +2372,7 @@
 </circle>
 
 <circle
-  cx="389.5"
+  cx="375.5"
   cy="140"
   r="2.5"
   fill="#7ee787"
